@@ -1,0 +1,34 @@
+{
+	"social": [
+		{
+			"network": "Twitter",
+			"username": "joellesenne",
+			"url": "https://twitter.com/joellesenne"
+		},
+		{
+			"network": "Github",
+			"username": "joellesenne",
+			"url": "https://github.com/joellesenne"
+		},
+		{
+			"network": "Instagram",
+			"username": "joellesenne",
+			"url": "https://www.instagram.com/joellesenne/"
+		},
+		{
+			"network": "Codepen",
+			"username": "joellesenne",
+			"url": "https://codepen.io/joellesenne"
+		},
+		{
+			"network": "Dribbble",
+			"username": "joellesenne",
+			"url": "https://dribbble.com/joellesenne"
+		}
+	],
+	"profile": {
+		"email": "contact@joellesenne.dev",
+		"phone": "+(33) 611 578 371",
+		"website": "https://joellesenne.dev"
+	}
+}

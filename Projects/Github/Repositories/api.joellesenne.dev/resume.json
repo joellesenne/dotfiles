@@ -1,0 +1,176 @@
+{
+	"basics": {
+		"name": "Joël Lesenne",
+		"label": "Front-end",
+		"picture": {
+			"url": "https://static.joellesenne.dev/images/profil.jpg",
+			"alt": "Image du profil"
+		},
+		"summary": "Développeur Web",
+		"location": {
+			"address": "16, rue Gabriel Vicaire",
+			"postalCode": "01000",
+			"city": "Bourg-en-Bresse",
+			"countryCode": "FR",
+			"region": "France"
+		}
+	},
+	"brieDescription": "",
+	"work": [
+		{
+			"company": "Joël Lesenne",
+			"position": "Lyon",
+			"website": "https://joellesenne.dev",
+			"startDate": "avril. 2019",
+			"endDate": "Aujourd'hui",
+			"summary": "Développeur Web",
+			"highlights": [
+				"Inscription à la chambre de commerce et de l'URSSAF.",
+				"Création du site  Web avec Gatsby.js et du nom de domaine.",
+				"Création du Logo et carte de  visite."
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Accord2mains",
+			"position": "Bourg-en-Bresse",
+			"website": "",
+			"startDate": "sept. 2015",
+			"endDate": "sept. 2017",
+			"summary": "Administrateur Informatique",
+			"highlights": [
+				"Mise en place d'un serveur Web et d'un CMS pour la gestion des adhérents.",
+				"Création d'une page web  et du nom de domaine.",
+				"Création du Logo et divers Flayers publicitaires."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "YouTube",
+			"area": "Tutoriel sur le Web",
+			"studyType": "Bachelor",
+			"startDate": "aout. 2008",
+			"endDate": "Aujourd'hui",
+			"gpa": "Autodidact",
+			"courses": ["Formation développeur Web"]
+		}
+	],
+	"awards": [
+		{
+			"title": "",
+			"date": "",
+			"awarder": "",
+			"summary": ""
+		}
+	],
+	"publications": [
+		{
+			"name": "",
+			"publisher": "",
+			"releaseDate": "",
+			"website": "",
+			"summary": ""
+		}
+	],
+	"skills": [
+		{
+			"name": "Front-End",
+			"level": "*****",
+			"keywords": [
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Sass",
+				"Angular",
+				"Vue.js",
+				"React.js"
+			]
+		},
+		{
+			"name": "Back-End",
+			"level": "**",
+			"keywords": ["PHP", "MySQL", "Laravel", "Node.js"]
+		},
+		{
+			"name": "Full-Stack",
+			"level": "****",
+			"keywords": ["API", "Netlify", "Gatsby.js", "Nuxt.js", "GRAPHQL"]
+		}
+	],
+	"languages": [
+		{
+			"language": "French",
+			"fluency": "****"
+		},
+		{
+			"language": "English",
+			"fluency": "***"
+		}
+	],
+	"interests": [
+		{
+			"name": "Wildlife",
+			"keywords": ["Photographie", "Vélo", "Natation"]
+		}
+	],
+	"references": [
+		{
+			"name": "",
+			"reference": ""
+		}
+	],
+	"links": [
+		{
+			"social": [
+				{
+					"network": "Twitter",
+					"username": "joellesenne",
+					"url": "https://twitter.com/joellesenne"
+				},
+				{
+					"network": "Github",
+					"username": "joellesenne",
+					"url": "https://github.com/joellesenne"
+				},
+				{
+					"network": "Codepen",
+					"username": "joellesenne",
+					"url": "https://codepen.io/joellesenne"
+				},
+				{
+					"network": "Dribbble",
+					"username": "joellesenne",
+					"url": "https://dribbble.com/joellesenne"
+				},
+				{
+					"network": "Instagram",
+					"username": "joellesenne",
+					"url": "https://www.instagram.com/joellesenne/"
+				}
+			],
+			"openSource": [
+				{
+					"title": "Site",
+					"url": "https://github.com/joellesenne/joellesenne.dev"
+				}
+			],
+			"projectPersonal": [
+				{
+					"title": "CV resume",
+					"url": "https://cv.joellesenne.dev"
+				},
+				{
+					"title": "Lab",
+					"url": "https://cv.joellesenne.dev"
+				}
+			],
+			"profile": {
+				"email": "contact@joellesenne.dev",
+				"phone": "+(33) 611 578 371",
+				"website": "https://joellesenne.dev"
+			}
+		}
+	]
+}
