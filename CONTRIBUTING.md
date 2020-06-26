@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 First fork this project.
 
-* git clone <your-forked-repo>
+* git clone <https://github.com/joellesenne/dotfiles.git>
 * npm install
 
 * git checkout -b my-fix
