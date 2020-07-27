@@ -134,20 +134,23 @@ brew install zsh
 # Install Apps
 brew cask install iterm2
 brew cask install alfred
-brew cask install spectacle
-brew cask install sublime-text
+# brew cask install spectacle
+# brew cask install sublime-text
 # brew cask install github-desktop
 brew cask install google-chrome
 brew cask install firefox
 brew cask install opera
+brew cask install vscode
+brew cask install postman
 # brew cask install skype
 brew cask install slack
 # brew cask install spotify
-# brew cask install caffeine
+brew cask install caffeine
+brew cask install flux
 brew cask install dropbox
-brew cask install imageoptim
-brew cask install rambox
-brew cask install transmit
+# brew cask install imageoptim
+# brew cask install rambox
+# brew cask install transmit
 # brew cask install sketch
 brew cask install vlc
 
