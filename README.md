@@ -6,5 +6,5 @@
 
 Coming soon
 
-- [ ] Vim config
+- [ ] Vim + config
 - [ ] Setup a new machine
