@@ -12,7 +12,7 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 brew update
 
 # Upgrade any already-installed formulae.
-brew upgrade --all
+#brew upgrade --all
 
 # Install GNU core utilities (those that come with OS X are outdated).
 # Don’t forget to add `$(brew --prefix coreutils)/libexec/gnubin` to `$PATH`.
@@ -89,16 +89,15 @@ brew install git
 
 # github util. gotta love `hub fork`, `hub create`, `hub checkout <PRurl>` <https://hub.github.com/>
 #brew install hub
-brew install imagemagick --with-webp
+#brew install imagemagick --with-webp
 brew install node # This installs `npm` too using the recommended installation method
 brew install pv
 brew install rename
 brew install zopfli
-brew install ffmpeg --with-libvpx
+#brew install ffmpeg --with-libvpx
 
 brew install terminal-notifier
 
-brew install android-platform-tools
 brew install pidcat   # colored logcat guy
 
 brew install ncdu # find where your diskspace went
@@ -111,7 +110,6 @@ brew install bat
 # Run arbitrary commands when files change <http://eradman.com/entrproject/>
 #brew install entr
 #brew install exiv2
-brew install git
 #brew install git-lfs
 #brew install imagemagick --with-webp
 #brew install lua
@@ -132,24 +130,29 @@ brew install z
 brew install zsh
 
 # Install Apps
+brew cask install android-platform-tools
 brew cask install iterm2
 brew cask install alfred
-brew cask install spectacle
-brew cask install sublime-text
-# brew cask install github-desktop
+#brew cask install spectacle
+brew cask install rectangle
+#brew cask install sublime-text
+#brew cask install github-desktop
 brew cask install google-chrome
 brew cask install firefox
 brew cask install opera
-# brew cask install skype
+brew cask install visual-studio-code
+
+#brew cask install skype
 brew cask install slack
-# brew cask install spotify
-# brew cask install caffeine
+#brew cask install spotify
+#brew cask install caffeine
 brew cask install dropbox
+brew cask install figma
 brew cask install imageoptim
 brew cask install rambox
-brew cask install transmit
-# brew cask install sketch
-brew cask install vlc
+#brew cask install transmit
+#brew cask install sketch
+#brew cask install vlc
 
 # Remove outdated versions from the cellar.
 brew cleanup

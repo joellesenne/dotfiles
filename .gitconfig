@@ -1,7 +1,8 @@
 [user]
-  name = <name>
-  email = <mail>
-
+  name = Firstname Lastname
+  email = jou@exemple.com
+[github]
+  user   = username
 [alias]
   # Default
   a = add .
@@ -11,6 +12,8 @@
   cm = commit -m
   # cp = cherry-pick
   ck = checkout
+  ckd = checkout develop
+  ckf = checkout feature
   pl = pull
   ps = push
 
