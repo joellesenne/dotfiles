@@ -2,18 +2,18 @@
   "name": "dotfiles",
   "version": "1.0.0",
   "description": "🦄 Inspiration => [s10wen](https://github.com/s10wen/dotfiles)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/joellesenne/dotfiles#readme",
+  "bugs": {
+    "url": "https://github.com/joellesenne/dotfiles/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joellesenne/dotfiles.git"
   },
-  "author": "Joêl Lesenne",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/joellesenne/dotfiles/issues"
-  },
-  "homepage": "https://github.com/joellesenne/dotfiles#readme"
+  "author": "Joêl Lesenne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
