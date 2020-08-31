@@ -142,6 +142,8 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install opera
 brew cask install visual-studio-code
+brew cask install sip
+brew cask install dash
 
 #brew cask install skype
 brew cask install slack
