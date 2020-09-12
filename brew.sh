@@ -128,6 +128,7 @@ brew install tree
 brew install z
 #brew install zopfli
 brew install zsh
+brew install gitmoji
 
 # Install Apps
 brew cask install android-platform-tools
