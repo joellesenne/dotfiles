@@ -129,12 +129,13 @@ brew install z
 #brew install zopfli
 brew install zsh
 brew install gitmoji
+brew install gh
 
 # Install Apps
 brew cask install android-platform-tools
 brew cask install iterm2
 brew cask install alfred
-
+brew cask install jumpcut
 #brew cask install spectacle
 brew cask install rectangle
 #brew cask install sublime-text

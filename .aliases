@@ -19,6 +19,9 @@ alias g="git"
 # Gulp
 alias gs="gulp serve"
 
+# Trash-cli
+alias rm=trash
+
 # npm
 alias nlgd="npm list -g --depth=0"
 alias nld="npm list --depth=0"
