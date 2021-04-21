@@ -11,6 +11,9 @@ for file in ~/.{path,bash_prompt,aliases,functions,extra}; do
 done;
 unset file;
 
+# Add composer.phar to PATH=/usr/local/bin:$PATH
+alias composer="php /usr/local/bin/composer.phar"
+
 # init z https://github.com/rupa/z
 # . `brew --prefix`/etc/profile.d/z.sh
 

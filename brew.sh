@@ -146,7 +146,8 @@ brew cask install opera
 brew cask install visual-studio-code
 brew cask install sip
 brew cask install dash
-
+brew cask install postman
+#brew cask install skype
 #brew cask install skype
 brew cask install slack
 #brew cask install spotify
@@ -157,7 +158,7 @@ brew cask install imageoptim
 brew cask install rambox
 #brew cask install transmit
 #brew cask install sketch
-#brew cask install vlc
+brew cask install vlc
 
 # Remove outdated versions from the cellar.
 brew cleanup

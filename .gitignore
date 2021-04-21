@@ -13,5 +13,7 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 
-# Visual Code config setting
-#.vscode/settings.json
+# IDE
+.vscode/
+.idea/
+
