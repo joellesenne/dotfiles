@@ -17,6 +17,9 @@
   pl = pull
   ps = push
 
+  # history graph
+    graph = log --oneline --graph --decorate
+
   # View abbreviated SHA, description, and history graph of the latest 20 commits
   l = log --pretty=oneline -n 20 --graph --abbrev-commit
 
@@ -188,7 +191,7 @@
 # Sourcetree app config
 #[difftool "sourcetree"]
   #cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-  #path = 
+  #path =
 #[mergetool "sourcetree"]
   #cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
   #trustExitCode = true

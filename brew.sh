@@ -110,6 +110,7 @@ brew install bat
 # Run arbitrary commands when files change <http://eradman.com/entrproject/>
 #brew install entr
 #brew install exiv2
+brew install git
 #brew install git-lfs
 #brew install imagemagick --with-webp
 #brew install lua
@@ -151,7 +152,8 @@ brew cask install postman
 #brew cask install skype
 brew cask install slack
 #brew cask install spotify
-#brew cask install caffeine
+brew cask install caffeine
+brew cask install flux
 brew cask install dropbox
 brew cask install figma
 brew cask install imageoptim
@@ -159,6 +161,7 @@ brew cask install rambox
 #brew cask install transmit
 #brew cask install sketch
 brew cask install vlc
+brew install --cask responsively
 
 # Remove outdated versions from the cellar.
 brew cleanup
